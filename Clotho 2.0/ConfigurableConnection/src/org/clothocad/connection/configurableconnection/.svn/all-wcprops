@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ConfigurableConnection/src/org/clothocad/connection/configurableconnection
+END
+ConfigurableConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ConfigurableConnection/src/org/clothocad/connection/configurableconnection/ConfigurableConnection.java
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ConfigurableConnection/src/org/clothocad/connection/configurableconnection/Bundle.properties
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ConfigurableConnection/src/org/clothocad/connection/configurableconnection/layer.xml
+END
+Connection.xml
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ConfigurableConnection/src/org/clothocad/connection/configurableconnection/Connection.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ConfigurableConnection/src/org/clothocad/connection/configurableconnection/hibernate.cfg.xml
+END

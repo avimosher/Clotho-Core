@@ -24,8 +24,10 @@
 
 package org.clothocore.api.core;
 
+import java.awt.Font;
 import java.io.File;
 import java.util.ArrayList;
+import javax.swing.UIManager;
 import org.clothocore.util.basic.FileUtils;
 import org.clothocore.util.xml.XMLParser;
 
@@ -55,6 +57,16 @@ public class PluginManager extends javax.swing.JDialog {
     * @param args the command line arguments
     */
     public static void main(String args[]) {
+        Font f=new Font("Courier",Font.PLAIN,12);
+        java.util.Enumeration keys=UIManager.getDefaults().keys();
+        while(keys.hasMoreElements()){
+            
+            Object key=keys.nextElement();
+            Object value=UIManager.get(key);
+            if(value instanceof javax.swing.plaf.FontUIResource)
+                UIManager.put(key,f);
+        }
+
         java.awt.EventQueue.invokeLater(new Runnable() {
             @Override
             public void run() {

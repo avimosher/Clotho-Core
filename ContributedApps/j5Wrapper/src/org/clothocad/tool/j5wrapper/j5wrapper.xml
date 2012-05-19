@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoTool</type>
+<version>1.0</version>
+<classname>org-clothocad-tool-j5wrapper-connect</classname>
+<description>Invokes j5 to design oligos for Gibson assembly</description>
+<displayname>j5 Wrapper</displayname>
+<uuid>org.clothocad.tool.j5wrapper</uuid>
+<screenshotpath>org/clothocad/tool/j5wrapper/screenshot.png</screenshotpath>
+<author>Avi Robinson-Mosher</author>
+<dependency>org.clothocad.library.sequencelight</dependency>
+<viewer>PART</viewer>
+<iconpath>org/clothocad/tool/j5wrapper/logo.png</iconpath>
+    <help>
+        <helpurl>http://wiki.bu.edu/ece-clotho/index.php/App_Information</helpurl>
+        <helpdescription>For more information please see the help url</helpdescription>
+        <!--<helpcommand>Command1</helpcommand>-->
+        <!--<helpcommand>Command2</helpcommand>-->
+    </help>
+</plugin>

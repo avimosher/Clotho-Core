@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoTool</type>
+<version>1.0</version>
+<classname>uk-ac-sanger-artemis-connect</classname>
+<description>Artemis sequence viewer</description>
+<displayname>Artemis</displayname>
+<uuid>uk.ac.sanger.artemis</uuid>
+<screenshotpath>uk/ac/sanger/artemis/screenshot.png</screenshotpath>
+<author>Avi Robinson-Mosher</author>
+<viewer>PART</viewer>
+<iconpath>uk/ac/sanger/artemis/logo.png</iconpath>
+    <help>
+        <helpurl>http://wiki.bu.edu/ece-clotho/index.php/App_Information</helpurl>
+        <helpdescription>For more information please see the help url</helpdescription>
+        <!--<helpcommand>Command1</helpcommand>-->
+        <!--<helpcommand>Command2</helpcommand>-->
+    </help>
+</plugin>

@@ -1,0 +1,5 @@
+file.reference.org-clothocad-algorithm-seqanalyzer.jar=release/modules/ext/org-clothocad-algorithm-seqanalyzer.jar
+file.reference.org-openide-util.jar=release/modules/ext/org-openide-util.jar
+javac.source=1.6
+javac.compilerargs=-Xlint -Xlint:-serial
+nbm.needs.restart=true

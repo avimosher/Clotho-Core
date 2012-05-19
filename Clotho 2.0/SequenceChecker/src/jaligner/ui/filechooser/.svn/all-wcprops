@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser
+END
+NamedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser/NamedInputStream.java
+END
+FileChooserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser/FileChooserException.java
+END
+FileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser/FileChooser.java
+END
+FileChooserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser/FileChooserFactory.java
+END
+FileChooserTrusted.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser/FileChooserTrusted.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/filechooser/package.html
+END

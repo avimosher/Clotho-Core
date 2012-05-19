@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python
+END
+mapping_example.csv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python/mapping_example.csv
+END
+checkseq_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python/checkseq_config.py
+END
+Cap3
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python/Cap3
+END
+cap3_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python/cap3_parser.py
+END
+checkseq.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python/checkseq.py
+END
+abi_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/python/abi_parser.py
+END

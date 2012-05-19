@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui
+END
+registryPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/registryPart.java
+END
+parserGrabber.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/parserGrabber.java
+END
+allParts.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/allParts.java
+END
+bkg.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/bkg.png
+END
+blur.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/blur.png
+END
+frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/frame.java
+END
+registryPartold.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/RegistryImport/src/org/clothocad/tool/registryimporter/gui/registryPartold.java
+END

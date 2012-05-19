@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : TermList.xml
+    Created on : February 24, 2011, 7:00 AM
+    Author     : jcanderson_Home
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+    <primary>
+        <label>Part</label>
+        <secondar>
+            <label>Sequence</label>
+        </secondar>
+        <secondar>
+            <label>Author</label>
+        </secondar>
+        <secondar>
+            <label>Format</label>
+        </secondar>
+        <secondar>
+            <label>Basic</label>
+        </secondar>
+        <secondar>
+            <label>Composite</label>
+        </secondar>
+    </primary>
+
+    <primary>
+        <label>Feature</label>
+        <secondar>
+            <label>Sequence</label>
+        </secondar>
+    </primary>
+</root>

@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: uk.ac.sanger.artemis
+OpenIDE-Module-Layer: uk/ac/sanger/artemis/layer.xml
+OpenIDE-Module-Localizing-Bundle: uk/ac/sanger/artemis/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

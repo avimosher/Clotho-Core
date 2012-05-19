@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/PluginManager/src/org/clothocore/tool/pluginmanager/io
+END
+connectPMToClotho.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/PluginManager/src/org/clothocore/tool/pluginmanager/io/connectPMToClotho.java
+END
+FileTreeWalker.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/PluginManager/src/org/clothocore/tool/pluginmanager/io/FileTreeWalker.java
+END
+UnixGlobFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/PluginManager/src/org/clothocore/tool/pluginmanager/io/UnixGlobFileFilter.java
+END
+FileTreeWalk.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/PluginManager/src/org/clothocore/tool/pluginmanager/io/FileTreeWalk.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui
+END
+BackgroundPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/BackgroundPanel.java
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/Application.java
+END
+StackLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/StackLayout.java
+END
+BlurPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/BlurPanel.java
+END
+SuperSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/SuperSearch.java
+END
+CurvesPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/CurvesPanel.java
+END
+ButtonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/ButtonPanel.java
+END
+GraphicsUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/GraphicsUtilities.java
+END
+ToolPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/ToolPanel.java
+END
+ItemPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/DashBoard2/src/org/clothocore/widget/dashboard2/gui/ItemPanel.java
+END

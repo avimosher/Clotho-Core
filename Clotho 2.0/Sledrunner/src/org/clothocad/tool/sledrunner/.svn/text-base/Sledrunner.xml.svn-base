@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoTool</type>
+<version>1.0</version>
+<classname>org-clothocad-tool-sledrunner-connection</classname>
+<description>ApE-inspired sequence editor</description>
+<displayname>Sledrunner</displayname>
+<uuid>org.clothocad.tool.sledrunner</uuid>
+<screenshotpath>org/clothocad/tool/sledrunner/screenshot.png</screenshotpath>
+<author>J. Christopher Anderson</author>
+<dependency>org.clothocad.library.sequencelight</dependency>
+<viewer>PART</viewer>
+<viewer>VECTOR</viewer>
+<viewer>OLIGO</viewer>
+<viewer>FEATURE</viewer>
+<viewer>PLASMID</viewer>
+<iconpath>org/clothocad/tool/sledrunner/logo.png</iconpath>
+    <help>
+        <helpurl>http://wiki.bu.edu/ece-clotho/index.php/Sledrunner</helpurl>
+        <helpdescription>For more information please see the help url</helpdescription>
+        <!--<helpcommand>Command1</helpcommand>-->
+        <!--<helpcommand>Command2</helpcommand>-->
+    </help>
+</plugin>

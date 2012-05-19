@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter
+END
+errorgui.form
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/errorgui.form
+END
+screen.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/screen.png
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/logo.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/Bundle.properties
+END
+connect.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/connect.java
+END
+gmail-logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/gmail-logo.png
+END
+errorreporter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/errorreporter.xml
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/layer.xml
+END
+sendmail.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/sendmail.java
+END
+errorgui.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/ErrorReporter/src/org/clothocad/widget/errorreporter/errorgui.java
+END

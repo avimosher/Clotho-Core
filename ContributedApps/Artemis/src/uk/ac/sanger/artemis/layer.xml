@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="plugins">
+        <folder name="tools">
+            <file name="uk-ac-sanger-artemis-connect.instance">
+                <attr name="instanceOf" stringvalue="org.clothocore.api.plugin.ClothoTool"/>
+            </file>
+        </folder>
+        <folder name="xml">
+            <file name="artemis.xml" url="artemis.xml"></file>
+        </folder>
+    </folder>
+    <folder name="uk">
+        <folder name="ac">
+            <folder name="sanger">
+                <folder name="artemis">
+                    <file name="commands.csv" url="commands.csv"></file>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

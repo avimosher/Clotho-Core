@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoTool</type>
+<version>1.0</version>
+<classname>org-clothocad-tool-featurechomp-connect</classname>
+<description>Imports features from various files and saves them as Clotho Features</description>
+<displayname>Feature Chomp</displayname>
+<uuid>org.clothocad.tool.featurechomp</uuid>
+<!--<screenshotpath>org/clothocad/tool/personeditor/screenshot.png</screenshotpath>-->
+<author>Jenhan Tao</author>
+<iconpath>org/clothocad/tool/featurechomp/logo.png</iconpath>
+    <help>
+        <helpdescription>For more information please see the help url</helpdescription>
+        <!--<helpcommand>Command1</helpcommand>-->
+        <!--<helpcommand>Command2</helpcommand>-->
+    </help>
+</plugin>

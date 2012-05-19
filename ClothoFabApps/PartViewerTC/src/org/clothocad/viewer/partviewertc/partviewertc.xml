@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoViewer</type>
+<version>1.0</version>
+<classname>org-clothocad-viewer-partviewertc-Connect</classname>
+<description>Viewer and edit parts</description>
+<displayname>Part Viewer</displayname>
+<uuid>org.clothocad.viewer.partviewertc</uuid>
+<screenshotpath>org/clothocad/viewer/partviewertc/screenshot.png</screenshotpath>
+<author>J. Christopher Anderson</author>
+<viewer>PART</viewer>
+<iconpath>org/clothocad/viewer/partviewertc/logo.png</iconpath>
+</plugin>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/Matrix.java
+END
+MatrixLoaderException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/MatrixLoaderException.java
+END
+MatrixGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/MatrixGenerator.java
+END
+MatrixLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/MatrixLoader.java
+END
+MatricesCompartor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/MatricesCompartor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/package.html
+END

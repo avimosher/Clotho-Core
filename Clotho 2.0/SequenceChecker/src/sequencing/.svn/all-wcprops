@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing
+END
+sbbseq.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/sbbseq.java
+END
+temprunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/temprunner.java
+END
+SeqReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/SeqReport.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/Analyzer.java
+END
+Tester.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/Tester.java
+END
+InteractiveReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/InteractiveReport.java
+END
+TraceExtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/TraceExtract.java
+END
+ABITrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/sequencing/ABITrace.java
+END

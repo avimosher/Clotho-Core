@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing
+END
+AlignedAbi.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/AlignedAbi.java
+END
+test.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/test.java
+END
+sequencingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/sequencingPanel.java
+END
+LinkedButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/LinkedButton.java
+END
+Nmapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/Nmapper.java
+END
+seqReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/seqReport.java
+END
+newSeqAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/newSeqAnalysis.java
+END
+ABIClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/ABIClassification.java
+END
+BaseResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/BaseResult.java
+END
+ABITrace.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/ABITrace.java
+END
+seqAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/seqAnalysis.java
+END
+jcatest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SeqAnalyzer/src/org/clothocad/algorithm/seqanalyzer/sequencing/jcatest.java
+END

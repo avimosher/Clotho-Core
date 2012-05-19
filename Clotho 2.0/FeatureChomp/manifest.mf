@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.clothocad.tool.featurechomp
+OpenIDE-Module-Layer: org/clothocad/tool/featurechomp/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/clothocad/tool/featurechomp/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

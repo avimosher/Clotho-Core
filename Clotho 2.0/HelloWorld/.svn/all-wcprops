@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld
+END
+maindb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/maindb.properties
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/manifest.mf
+END
+maindb.script
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/maindb.script
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/build.xml
+END

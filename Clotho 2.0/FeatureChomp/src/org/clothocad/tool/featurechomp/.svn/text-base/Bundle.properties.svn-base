@@ -1,0 +1,15 @@
+OpenIDE-Module-Name=FeatureChomp
+FeatureChompGUI.jMenu2.text=Windows
+FeatureChompGUI.jMenuItem1.text=Switch View
+FeatureChompGUI.jMenu1.text=File
+FeatureChompGUI.title=Feature Chomp
+FeatureChompGUI.jMenuItem2.text=Close
+FeatureChompGUI.jLabel1.text=Select a type of feature to import:
+FeatureChompGUI.importGenbankButton.text=Import Genbank Feature
+FeatureChompGUI.importApeButton.text=Import ApE Features
+FeatureChompGUI.statusLabel.text=Status:
+ImportFeaturesWindow.yesButton.text=Yes
+ImportFeaturesWindow.cancelButton.text=Cancel
+ImportFeaturesWindow.statusLabel.text=waiting...
+ImportFeaturesWindow.jLabel2.text=Status:
+ImportFeaturesWindow.title=Select Collection to store new Features in

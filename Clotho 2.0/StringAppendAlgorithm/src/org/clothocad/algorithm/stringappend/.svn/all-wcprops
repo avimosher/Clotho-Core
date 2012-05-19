@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StringAppendAlgorithm/src/org/clothocad/algorithm/stringappend
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StringAppendAlgorithm/src/org/clothocad/algorithm/stringappend/Bundle.properties
+END
+StringAppendAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StringAppendAlgorithm/src/org/clothocad/algorithm/stringappend/StringAppendAlgorithm.java
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StringAppendAlgorithm/src/org/clothocad/algorithm/stringappend/layer.xml
+END
+StringAppendAlgorithmFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StringAppendAlgorithm/src/org/clothocad/algorithm/stringappend/StringAppendAlgorithmFactory.java
+END
+stringappend.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StringAppendAlgorithm/src/org/clothocad/algorithm/stringappend/stringappend.xml
+END

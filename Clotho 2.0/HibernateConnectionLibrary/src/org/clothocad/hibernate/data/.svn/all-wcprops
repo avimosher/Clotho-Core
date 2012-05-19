@@ -1,0 +1,569 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data
+END
+FeatureFamilyXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureFamilyXrefId.java
+END
+StrainNoteXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainNoteXref.hbm.xml
+END
+PlateTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PlateTable.hbm.xml
+END
+PartTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PartTable.hbm.xml
+END
+CollectionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/CollectionTable.java
+END
+WikitextTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/WikitextTable.hbm.xml
+END
+FactoidTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FactoidTable.hbm.xml
+END
+NoteFactoidXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteFactoidXref.hbm.xml
+END
+FeatureTraitXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureTraitXref.hbm.xml
+END
+StrainTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainTable.java
+END
+FlexfieldTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FlexfieldTable.java
+END
+TraitFamilyXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/TraitFamilyXref.java
+END
+NucseqAnnotation.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NucseqAnnotation.hbm.xml
+END
+FamilyTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FamilyTable.hbm.xml
+END
+PlateTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PlateTable.java
+END
+PartGrammarXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PartGrammarXrefId.java
+END
+NoteNoteXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteNoteXref.java
+END
+FactoidTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FactoidTable.java
+END
+StrainPlasmidXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainPlasmidXref.hbm.xml
+END
+PlasmidTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PlasmidTable.hbm.xml
+END
+NucseqAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NucseqAnnotation.java
+END
+FamilyTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FamilyTable.java
+END
+NucseqTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NucseqTable.hbm.xml
+END
+LabTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/LabTable.hbm.xml
+END
+StrainTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainTable.hbm.xml
+END
+GrammarTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/GrammarTable.java
+END
+VectorTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/VectorTable.hbm.xml
+END
+PlasmidTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PlasmidTable.java
+END
+NoteFactoidXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteFactoidXrefId.java
+END
+FeatureTraitXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureTraitXrefId.java
+END
+PlateTypeTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PlateTypeTable.hbm.xml
+END
+NoteNoteXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteNoteXref.hbm.xml
+END
+FlexfieldDataXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FlexfieldDataXref.hbm.xml
+END
+FeatureFamilyXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureFamilyXref.hbm.xml
+END
+FeatureNoteXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureNoteXref.java
+END
+PartTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PartTable.java
+END
+ContainerTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/ContainerTable.hbm.xml
+END
+TraitTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/TraitTable.hbm.xml
+END
+Collectionxref.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/Collectionxref.java
+END
+FlexfieldDataXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FlexfieldDataXref.java
+END
+SampleDataTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleDataTable.java
+END
+PartGrammarXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PartGrammarXref.hbm.xml
+END
+CompositeXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/CompositeXref.java
+END
+CollectionTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/CollectionTable.hbm.xml
+END
+TraitFamilyXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/TraitFamilyXrefId.java
+END
+StrainNoteXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainNoteXrefId.java
+END
+FamilyNoteXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FamilyNoteXref.java
+END
+NoteNoteXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteNoteXrefId.java
+END
+AttachmentTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/AttachmentTable.java
+END
+SampleDataXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleDataXref.java
+END
+PersonTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PersonTable.hbm.xml
+END
+FeatureTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureTable.java
+END
+Collectionxref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/Collectionxref.hbm.xml
+END
+NucseqTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NucseqTable.java
+END
+LabTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/LabTable.java
+END
+VectorTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/VectorTable.java
+END
+StrainNoteXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainNoteXref.java
+END
+StrainPlasmidXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainPlasmidXrefId.java
+END
+FamilyNoteXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FamilyNoteXref.hbm.xml
+END
+FeatureFamilyXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureFamilyXref.java
+END
+FeatureNoteXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureNoteXrefId.java
+END
+AttachmentTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/AttachmentTable.hbm.xml
+END
+SampleDataXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleDataXref.hbm.xml
+END
+InstitutionTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/InstitutionTable.hbm.xml
+END
+ContainerTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/ContainerTable.java
+END
+CollectionxrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/CollectionxrefId.java
+END
+SearchtagTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SearchtagTable.hbm.xml
+END
+FlexfieldTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FlexfieldTable.hbm.xml
+END
+TraitFamilyXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/TraitFamilyXref.hbm.xml
+END
+StrainPlasmidXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/StrainPlasmidXref.java
+END
+FormatTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FormatTable.java
+END
+NoteTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteTable.hbm.xml
+END
+InstitutionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/InstitutionTable.java
+END
+PartGrammarXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PartGrammarXref.java
+END
+OligoTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/OligoTable.hbm.xml
+END
+SampleDataTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleDataTable.hbm.xml
+END
+FamilyNoteXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FamilyNoteXrefId.java
+END
+SearchtagTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SearchtagTable.java
+END
+CompositeXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/CompositeXref.hbm.xml
+END
+NoteTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteTable.java
+END
+SampleDataXrefId.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleDataXrefId.java
+END
+SampleTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleTable.hbm.xml
+END
+PersonTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PersonTable.java
+END
+PlateTypeTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/PlateTypeTable.java
+END
+WikitextTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/WikitextTable.java
+END
+OligoTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/OligoTable.java
+END
+GrammarTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/GrammarTable.hbm.xml
+END
+NoteFactoidXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/NoteFactoidXref.java
+END
+FormatTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FormatTable.hbm.xml
+END
+FeatureTraitXref.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureTraitXref.java
+END
+FeatureTable.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureTable.hbm.xml
+END
+SampleTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/SampleTable.java
+END
+FeatureNoteXref.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/FeatureNoteXref.hbm.xml
+END
+TraitTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/src/org/clothocad/hibernate/data/TraitTable.java
+END

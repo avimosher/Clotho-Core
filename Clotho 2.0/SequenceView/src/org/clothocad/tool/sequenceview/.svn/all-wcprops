@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/clothoapps/!svn/ver/78/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview
+END
+ObjBaseDropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/ObjBaseDropTarget.java
+END
+ImportFeaturesWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/ImportFeaturesWindow.java
+END
+SequenceView.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/78/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceView.java
+END
+BasicPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/BasicPreferences.java
+END
+SequenceViewGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewGUI.java
+END
+SequenceViewDocumentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewDocumentListener.java
+END
+SequenceViewAdjustmentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewAdjustmentListener.java
+END
+ObjBaseTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/ObjBaseTransferHandler.java
+END
+SequenceViewSearchTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewSearchTools.java
+END
+ClothoSearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/ClothoSearchUtil.java
+END
+SequenceViewOutputWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewOutputWindow.java
+END
+SequenceViewPartExport.form
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewPartExport.form
+END
+SequenceView.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceView.xml
+END
+ImportFeaturesWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/ImportFeaturesWindow.form
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/Bundle.properties
+END
+BasicPreferences.form
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/BasicPreferences.form
+END
+SequenceViewGUI.form
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewGUI.form
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/layer.xml
+END
+SequenceViewPartExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewPartExport.java
+END
+SequenceViewOutputWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewOutputWindow.form
+END
+SequenceViewManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceView/src/org/clothocad/tool/sequenceview/SequenceViewManager.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight
+END
+ScrollablePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/ScrollablePanel.java
+END
+colorPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/colorPopup.java
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/Bundle.properties
+END
+colorPopup.form
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/colorPopup.form
+END
+nucSeqEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/nucSeqEditor.java
+END
+iconPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/iconPanel.java
+END
+seqPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/seqPanel.java
+END
+dnaKeymap.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/dnaKeymap.java
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/layer.xml
+END
+findReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/findReplace.java
+END
+util.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/util.java
+END
+findReplace.form
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceLight/src/org/clothocad/library/sequencelight/findReplace.form
+END

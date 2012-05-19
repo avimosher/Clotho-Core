@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/logo.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/Bundle.properties
+END
+digester.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/digester.xml
+END
+connect.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/connect.java
+END
+digestMultiple.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/digestMultiple.java
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/layer.xml
+END
+digestMultiple.form
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/BglBrickiDigester/src/org/clothocad/tool/bglbrickdigester/digestMultiple.form
+END

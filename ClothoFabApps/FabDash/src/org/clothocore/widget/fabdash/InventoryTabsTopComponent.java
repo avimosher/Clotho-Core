@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import javax.swing.AbstractAction;
 import javax.swing.JTable;
 import javax.swing.KeyStroke;
+import javax.swing.ListSelectionModel;
 import javax.swing.SwingWorker;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableModel;
@@ -75,6 +76,9 @@ public final class InventoryTabsTopComponent extends TopComponent {
         });
         partsTable.setTransferHandler(new InventoryTransferHandler());
         partsTable.setDragEnabled(true);
+        partsTable.setAutoCreateRowSorter(true);
+        partsTable.setRowSelectionAllowed(true);
+        partsTable.setDragEnabled(true);
 
         vectorsTable.addMouseListener(new MouseAdapter() {
 
@@ -89,6 +93,9 @@ public final class InventoryTabsTopComponent extends TopComponent {
         });
         vectorsTable.setTransferHandler(new InventoryTransferHandler());
         vectorsTable.setDragEnabled(true);
+        vectorsTable.setAutoCreateRowSorter(true);
+        vectorsTable.setRowSelectionAllowed(true);
+        vectorsTable.setDragEnabled(true);
 
         plasmidsTable.addMouseListener(new MouseAdapter() {
 
@@ -102,6 +109,9 @@ public final class InventoryTabsTopComponent extends TopComponent {
             }
         });
         plasmidsTable.setTransferHandler(new InventoryTransferHandler());
+        plasmidsTable.setDragEnabled(true);
+        plasmidsTable.setAutoCreateRowSorter(true);
+        plasmidsTable.setRowSelectionAllowed(true);
         plasmidsTable.setDragEnabled(true);
 
         oligosTable.addMouseListener(new MouseAdapter() {
@@ -118,6 +128,9 @@ public final class InventoryTabsTopComponent extends TopComponent {
         });
         oligosTable.setTransferHandler(new InventoryTransferHandler());
         oligosTable.setDragEnabled(true);
+        oligosTable.setAutoCreateRowSorter(true);
+        oligosTable.setRowSelectionAllowed(true);
+        oligosTable.setSelectionMode(ListSelectionModel.MULTIPLE_INTERVAL_SELECTION);
 
 
 

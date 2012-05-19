@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/example/sequences
+END
+p53_human.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/example/sequences/p53_human.fasta
+END
+p53_mouse.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/example/sequences/p53_mouse.fasta
+END

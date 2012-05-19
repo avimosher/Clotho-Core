@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.clothocad.tool.termbrowser
+OpenIDE-Module-Layer: org/clothocad/tool/termbrowser/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/clothocad/tool/termbrowser/Bundle.properties
+OpenIDE-Module-Requires: org.openide.windows.WindowManager
+OpenIDE-Module-Specification-Version: 1.0
+

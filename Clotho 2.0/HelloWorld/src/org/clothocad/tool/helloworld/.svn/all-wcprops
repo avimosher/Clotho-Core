@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld
+END
+HelloWorldController.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/HelloWorldController.java
+END
+TransferableObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/TransferableObject.java
+END
+HelloWorldGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/HelloWorldGUI.java
+END
+ObjBaseDropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/ObjBaseDropTarget.java
+END
+HelloWorldGUI.form
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/HelloWorldGUI.form
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/logo.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/Bundle.properties
+END
+helloText.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/helloText.txt
+END
+ObjBaseTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/ObjBaseTransferHandler.java
+END
+connect.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/connect.java
+END
+helloworld.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/helloworld.xml
+END
+jack.png
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/jack.png
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HelloWorld/src/org/clothocad/tool/helloworld/layer.xml
+END

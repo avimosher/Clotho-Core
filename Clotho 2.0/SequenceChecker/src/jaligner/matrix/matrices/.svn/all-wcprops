@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices
+END
+PAM50
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM50
+END
+PAM90
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM90
+END
+GONNET
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/GONNET
+END
+PAM100
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM100
+END
+PAM300
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM300
+END
+PAM220
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM220
+END
+PAM140
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM140
+END
+PAM500
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM500
+END
+PAM420
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM420
+END
+PAM340
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM340
+END
+PAM260
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM260
+END
+BLOSUM50
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM50
+END
+PAM180
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM180
+END
+PAM460
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM460
+END
+PAM380
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM380
+END
+IDENTITY_1
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/IDENTITY_1
+END
+BLOSUM90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM90
+END
+BLOSUM55
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM55
+END
+PAM20
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM20
+END
+BLOSUMN
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUMN
+END
+DAYHOFF
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/DAYHOFF
+END
+BLOSUM100
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM100
+END
+PAM60
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM60
+END
+IDENTITY
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/IDENTITY
+END
+MATCH
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/MATCH
+END
+PAM110
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM110
+END
+PAM310
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM310
+END
+PAM230
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM230
+END
+PAM150
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM150
+END
+PAM430
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM430
+END
+PAM350
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM350
+END
+PAM270
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM270
+END
+PAM190
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM190
+END
+BLOSUM60
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM60
+END
+PAM470
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM470
+END
+PAM390
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM390
+END
+BLOSUM62
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM62
+END
+BLOSUM65
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM65
+END
+PAM30
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM30
+END
+PAM70
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM70
+END
+PAM200
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM200
+END
+PAM120
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM120
+END
+PAM400
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM400
+END
+PAM320
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM320
+END
+PAM240
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM240
+END
+BLOSUM30
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM30
+END
+PAM160
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM160
+END
+PAM440
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM440
+END
+PAM360
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM360
+END
+PAM280
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM280
+END
+BLOSUM70
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM70
+END
+BLOSUM35
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM35
+END
+PAM480
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM480
+END
+BLOSUM75
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM75
+END
+PAM40
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM40
+END
+PAM80
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM80
+END
+EDNAFULL
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/EDNAFULL
+END
+PAM210
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM210
+END
+PAM130
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM130
+END
+PAM410
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM410
+END
+PAM330
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM330
+END
+PAM250
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM250
+END
+BLOSUM40
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM40
+END
+PAM170
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM170
+END
+PAM450
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM450
+END
+PAM370
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM370
+END
+PAM290
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM290
+END
+BLOSUM80
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM80
+END
+BLOSUM45
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM45
+END
+PAM490
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM490
+END
+BLOSUM85
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/BLOSUM85
+END
+PAM10
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/matrix/matrices/PAM10
+END

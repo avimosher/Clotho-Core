@@ -653,6 +653,10 @@ public class Person extends ObjBase {
     public Collection getHerCollection() {
         return Collector.getCollection( _personDatum._myCollectionID );
     }
+    
+    public void setHerCollection(Collection collection) {
+        _personDatum._myCollectionID=collection.getUUID();
+    }
 
     /**
      * Get the personal collection for this Person as a UUID link

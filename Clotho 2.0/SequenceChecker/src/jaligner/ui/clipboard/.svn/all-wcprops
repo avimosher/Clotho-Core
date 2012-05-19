@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard
+END
+ClipboardHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard/ClipboardHandlerFactory.java
+END
+ClipboardListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard/ClipboardListener.java
+END
+ClipboardHandlerAWT.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard/ClipboardHandlerAWT.java
+END
+ClipboardHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard/ClipboardHandler.java
+END
+ClipboardPoller.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard/ClipboardPoller.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/ui/clipboard/package.html
+END

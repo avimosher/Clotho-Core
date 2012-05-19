@@ -1372,7 +1372,8 @@ public class NucSeq extends ObjBase implements Serializable {
      */
     Short performBiosafetyCheck() {
        System.out.println( "performBiosafetyCheck triggered" );
-       short rg = -1;
+       return -1;
+       /*short rg = -1;
        rg = getBSLfromServer();
        //If it's RG3+, show a special message
        if ( rg == 4 ) {
@@ -1395,7 +1396,7 @@ public class NucSeq extends ObjBase implements Serializable {
                                           JOptionPane.INFORMATION_MESSAGE,
                                           bslicon );
        }
-       return rg;
+       return rg;*/
    }
 
    /**

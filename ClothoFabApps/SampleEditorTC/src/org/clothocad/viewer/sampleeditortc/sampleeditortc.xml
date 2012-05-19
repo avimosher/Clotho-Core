@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoViewer</type>
+<version>1.0</version>
+<classname>org-clothocad-viewer-sampleeditortc-Connect</classname>
+<description>View and edit contents of a sample</description>
+<displayname>Sample Editor</displayname>
+<uuid>org.clothocad.viewer.sampleeditortc</uuid>
+<screenshotpath>org/clothocad/viewer/sampleeditortc/screenshot.png</screenshotpath>
+<author>J. Christopher Anderson</author>
+<viewer>SAMPLE</viewer>
+<iconpath>org/clothocad/viewer/sampleeditortc/logo.png</iconpath>
+    <help>
+        <helpurl>http://wiki.bu.edu/ece-clotho/index.php/Lab_Editor</helpurl>
+        <helpdescription>For more information please see the help url</helpdescription>
+        <!--<helpcommand>Command1</helpcommand>-->
+        <!--<helpcommand>Command2</helpcommand>-->
+    </help>
+</plugin>

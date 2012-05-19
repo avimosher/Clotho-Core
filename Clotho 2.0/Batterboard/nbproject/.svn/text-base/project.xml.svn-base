@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.apisupport.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
+            <code-name-base>org.clothocad.tool.batterboard</code-name-base>
+            <standalone/>
+            <module-dependencies>
+                <dependency>
+                    <code-name-base>org.clothocad.algorithm.seqanalyzer</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <specification-version>1.0</specification-version>
+                    </run-dependency>
+                </dependency>
+                <dependency>
+                    <code-name-base>org.clothocore</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                    <run-dependency>
+                        <release-version>1</release-version>
+                        <specification-version>1</specification-version>
+                    </run-dependency>
+                </dependency>
+            </module-dependencies>
+            <public-packages/>
+            <class-path-extension>
+                <runtime-relative-path>ext/org-openide-util.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/org-openide-util.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/poi-3.7-20101029.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/poi-3.7-20101029.jar</binary-origin>
+            </class-path-extension>
+            <class-path-extension>
+                <runtime-relative-path>ext/org-clothocad-algorithm-seqanalyzer.jar</runtime-relative-path>
+                <binary-origin>release/modules/ext/org-clothocad-algorithm-seqanalyzer.jar</binary-origin>
+            </class-path-extension>
+        </data>
+    </configuration>
+</project>

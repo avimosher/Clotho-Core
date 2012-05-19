@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp
+END
+ImportFeaturesWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/ImportFeaturesWindow.java
+END
+featurechomp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/featurechomp.xml
+END
+ImportFeaturesWindow.form
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/ImportFeaturesWindow.form
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/logo.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/Bundle.properties
+END
+FeatureChompController.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/FeatureChompController.java
+END
+FeatureChompGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/FeatureChompGUI.java
+END
+FeatureChompGUI.form
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/FeatureChompGUI.form
+END
+connect.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/connect.java
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/FeatureChomp/src/org/clothocad/tool/featurechomp/layer.xml
+END

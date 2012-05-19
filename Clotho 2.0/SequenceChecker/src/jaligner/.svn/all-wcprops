@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/Cell.java
+END
+NeedlemanWunsch.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/NeedlemanWunsch.java
+END
+NeedlemanWunschGotoh.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/NeedlemanWunschGotoh.java
+END
+Markups.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/Markups.java
+END
+Directions.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/Directions.java
+END
+SmithWatermanGotoh.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/SmithWatermanGotoh.java
+END
+TracebackNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/TracebackNode.java
+END
+Sequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/Sequence.java
+END
+Alignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/Alignment.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/SequenceChecker/src/jaligner/package.html
+END

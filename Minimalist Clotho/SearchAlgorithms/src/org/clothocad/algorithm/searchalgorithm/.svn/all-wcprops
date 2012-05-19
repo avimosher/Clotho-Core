@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Minimalist%20Clotho/SearchAlgorithms/src/org/clothocad/algorithm/searchalgorithm
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svnroot/clothoapps/!svn/ver/73/trunk/Minimalist%20Clotho/SearchAlgorithms/src/org/clothocad/algorithm/searchalgorithm/Bundle.properties
+END
+connect.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svnroot/clothoapps/!svn/ver/73/trunk/Minimalist%20Clotho/SearchAlgorithms/src/org/clothocad/algorithm/searchalgorithm/connect.java
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/clothoapps/!svn/ver/73/trunk/Minimalist%20Clotho/SearchAlgorithms/src/org/clothocad/algorithm/searchalgorithm/layer.xml
+END
+searchalgorithm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svnroot/clothoapps/!svn/ver/73/trunk/Minimalist%20Clotho/SearchAlgorithms/src/org/clothocad/algorithm/searchalgorithm/searchalgorithm.xml
+END
+searchActor.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svnroot/clothoapps/!svn/ver/73/trunk/Minimalist%20Clotho/SearchAlgorithms/src/org/clothocad/algorithm/searchalgorithm/searchActor.java
+END

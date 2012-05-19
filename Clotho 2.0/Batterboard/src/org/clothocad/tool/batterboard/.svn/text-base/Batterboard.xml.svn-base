@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<type>ClothoTool</type>
+<version>1.0</version>
+<classname>org-clothocad-tool-batterboard-hub</classname>
+<description>Sample management tool</description>
+<displayname>Batterboard</displayname>
+<uuid>org.clothocad.tool.batterboard</uuid>
+<!--<screenshotpath>none</screenshotpath>-->
+<author>J.Christopher Anderson</author>
+<author>Douglas Densmore</author>
+<iconpath>org/clothocad/tool/batterboard/logo.jpg</iconpath>
+<dependency>org.clothocad.algorithm.seqanalyzer</dependency>
+<!--<dependency>none2</dependency>-->
+    <help>
+        <helpurl>none</helpurl>
+        <helpdescription>For more information please see the help url</helpdescription>
+        <!--<helpcommand>Command1</helpcommand>-->
+        <!--<helpcommand>Command2</helpcommand>-->
+    </help>
+</plugin>

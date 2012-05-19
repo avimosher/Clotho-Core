@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard
+END
+mySqlFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/mySqlFrame.java
+END
+maindb.lck
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/maindb.lck
+END
+startupwizard.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/startupwizard.xml
+END
+logo.png
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/logo.png
+END
+Bundle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/Bundle.properties
+END
+localFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/localFrame.java
+END
+maindb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/maindb.properties
+END
+connect.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/connect.java
+END
+layer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/layer.xml
+END
+maindb.script
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/StartupWizardTool/src/org/clothocad/tool/startupwizard/maindb.script
+END

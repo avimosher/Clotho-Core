@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/hibernate3.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/commons-collections-3.1.jar
+END
+mysql-connector-java-5.1.6-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/mysql-connector-java-5.1.6-bin.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/antlr-2.7.6.jar
+END
+slf4j-api-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/slf4j-api-1.6.1.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/jta-1.1.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/hsqldb.jar
+END
+slf4j-nop-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/slf4j-nop-1.6.1.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/dom4j-1.6.1.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/slf4j-api-1.5.8.jar
+END
+slf4j-ext-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/slf4j-ext-1.6.1.jar
+END
+javassist-3.9.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/clothoapps/!svn/ver/73/trunk/Clotho%202.0/HibernateConnectionLibrary/release/modules/ext/javassist-3.9.0.GA.jar
+END
