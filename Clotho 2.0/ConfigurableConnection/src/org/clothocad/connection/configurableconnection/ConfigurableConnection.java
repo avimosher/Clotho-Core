@@ -71,7 +71,7 @@ public class ConfigurableConnection implements ClothoConnection {
 
     @Override
     public int save( Collection<ObjBase> objs ) {
-        return _conn.save( objs );
+        return (_conn.save( objs ))?1:0;
     }
 
     @Override
@@ -81,7 +81,7 @@ public class ConfigurableConnection implements ClothoConnection {
 
     @Override
     public int delete( Collection<ObjBase> objs ) {
-        return _conn.delete( objs );
+        return (_conn.delete( objs ))?1:0;
     }
 
     @Override
